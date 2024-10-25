@@ -61,6 +61,9 @@ GOOGLE_CLIENT_SECRET=your-google-client-secret
 
 ## Screenshots
 
+### Home Page
+![Home Page](screenshots/home-page.png)
+
 ### Login Page
 ![Login Page](screenshots/login-page.png)
 
