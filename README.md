@@ -1,4 +1,4 @@
-# Secrets App
+# Secrets App - Secure Secrets Logging Platform
 
 A web application where users can register, log in, and submit secrets anonymously. The app uses **PostgreSQL**, **bcrypt** for password encryption, **Passport.js** for authentication (local and Google OAuth), and is built using **Express.js**.
 
